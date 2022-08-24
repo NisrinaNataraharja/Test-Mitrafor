@@ -1,0 +1,12 @@
+.container {
+  height: 100vh;
+  width: 12px;
+  overflow: auto;
+  padding: 10px;
+}
+
+.content {
+  height: 100vh;
+  padding: 10px;
+  overflow: auto;
+}
